@@ -3,6 +3,6 @@
 ![](lunbo.gif)
 
 ## photos
-![](img/img1.png)
-![](img/img2.png)
-![](img/img3.png)
+![](imgs/img1.png)
+![](imgs/img2.png)
+![](imgs/img3.png)
